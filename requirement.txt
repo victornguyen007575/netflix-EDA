@@ -3,5 +3,7 @@ numpy
 matplotlib
 seaborn
 statsmodels
+scipy
 scikit-learn
 kagglehub
+os
